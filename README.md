@@ -26,9 +26,6 @@ A comprehensive toolkit for analyzing academic papers using state-of-the-art NLP
 ### Install Package
 
 ```bash
-# Clone or download the project
-cd "NLP Project"
-
 # Install in development mode
 pip install -e .
 
