@@ -8,9 +8,11 @@ import torch
 from pathlib import Path
 from typing import List, Dict, Optional
 
+
 from nlp_paper_analyzer.config import Config
-from nlp_paper_analyzer.ocr import convert_to_latex, parse_mmd_to_sections
+from nlp_paper_analyzer.data.ocr import convert_to_latex, parse_mmd_to_sections
 from nlp_paper_analyzer.utils import logger
+
 
 
 class UnifiedDocumentPipeline:

@@ -33,9 +33,11 @@ ENV/
 *~
 
 # Project specific - data files only, not source code
-/data/
-/models/
+# /data/  <-- Commented out to allow module
+# /models/ <-- Commented out to allow module
 /outputs/
+!/data/*.py
+!/models/*.py
 *.csv
 *.mmd
 *.keras

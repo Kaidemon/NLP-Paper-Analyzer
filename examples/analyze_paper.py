@@ -20,6 +20,11 @@ sys.path.insert(0, str(project_root))
 from nlp_paper_analyzer.config import Config
 from nlp_paper_analyzer.utils import logger
 
+# Individual modules
+from nlp_paper_analyzer.data import NougatParser
+from nlp_paper_analyzer.models import GrammarCorrector, FactVerifier
+from nlp_paper_analyzer.pipeline import UnifiedDocumentPipeline, PaperQualityScorer, visualize_scores
+
 def analyze_paper(paper_path: str):
     """
     Analyze a single paper through the complete pipeline.

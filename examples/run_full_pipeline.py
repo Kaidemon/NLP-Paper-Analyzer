@@ -18,6 +18,8 @@ sys.path.insert(0, str(project_root))
 
 from nlp_paper_analyzer.config import Config
 from nlp_paper_analyzer.data import load_dataset_from_kaggle, preprocess_column
+from nlp_paper_analyzer.models import train_section_classifier
+from nlp_paper_analyzer.pipeline import UnifiedDocumentPipeline, PaperQualityScorer, visualize_scores
 from nlp_paper_analyzer.utils import logger
 
 def main():

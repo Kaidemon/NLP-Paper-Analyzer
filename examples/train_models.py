@@ -19,6 +19,12 @@ sys.path.insert(0, str(project_root))
 from nlp_paper_analyzer.config import Config
 from nlp_paper_analyzer.data import load_dataset_from_kaggle, preprocess_column
 from nlp_paper_analyzer.utils import logger
+from nlp_paper_analyzer.models import (
+    train_section_classifier,
+    GrammarCorrector,
+    FactVerifier,
+    plot_training_history
+)
 
 def train_section_classifier_example(df):
     """
